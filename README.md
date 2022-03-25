@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @StayerK8 (Ekaterina Panova).
+- 🌱 I’m currently learning HTML.
